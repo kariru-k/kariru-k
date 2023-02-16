@@ -1,9 +1,13 @@
+## About Me
+
 - 👋 Hi, I’m @kariru-k
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning React.Js
 - 💞️ I’m looking to collaborate on Web and Mobile App Development
 - 📫 How to reach me: karirukeith@gmail.com
 
+
+## My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kariru-k&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
