@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web and Mobile App Development
 - 📫 How to reach me: karirukeith@gmail.com
 
-![Snake animation](https://github.com/{{kariru-k}}/{{kariru-k}}/blob/output/github-contribution-grid-snake.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
